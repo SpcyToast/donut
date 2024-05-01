@@ -9,7 +9,7 @@ I might even try to rewrite this code in another language
 
 To run this code, compile using (change [variant] to one of the donut c files): <br/>
 ```
-gcc -o donut donut-[variant].c -lm <br />
+gcc -o donut donut-[variant].c -lm
 ```
 then run using: <br />
 ```
