@@ -6,3 +6,8 @@ Really interesting read on the [project](https://www.a1k0n.net/2011/07/20/donut-
 I have files on the original code and will look into how the code has evolved throughout the years <br/>
 I will try to break down the code and see what else I can do using this doughnut as a baseline <br/>
 I might even try to rewrite this code in another language
+
+To run this code, compile using: <br/>
+gcc -o donut donut-[variant].c -lm <br />
+then run using: <br />
+./donut
