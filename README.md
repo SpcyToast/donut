@@ -7,7 +7,11 @@ I have files on the original code and will look into how the code has evolved th
 I will try to break down the code and see what else I can do using this doughnut as a baseline <br/>
 I might even try to rewrite this code in another language
 
-To run this code, compile using: <br/>
+To run this code, compile using (change [variant] to one of the donut c files): <br/>
+```
 gcc -o donut donut-[variant].c -lm <br />
+```
 then run using: <br />
+```
 ./donut
+```
